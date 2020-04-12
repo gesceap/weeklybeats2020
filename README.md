@@ -24,3 +24,8 @@ All nanoloop mobile song files for songs uploaded to weeklybeats 2020
 | 8 | Cctv01.nan | CCTV |
 | 9 | Layoverforone01.nan | Layover for One |
 | 10 | Falsealarm03.nan | False Alarm |
+| 11 | Latentspace03.nan | Latent Space |
+| 12 | Thisatakeover01.nan | This a Takeover |
+| 13 | Muroacid01.nan | Muro Acid |
+| 14 | FightOrFright01.nan | Fight Or Fright |
+| 15 | Kickmewhileimdown01.nan | Kick Me While I'm Down |
