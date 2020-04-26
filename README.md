@@ -29,3 +29,5 @@ All nanoloop mobile song files for songs uploaded to weeklybeats 2020
 | 13 | Muroacid01.nan | Muro Acid |
 | 14 | FightOrFright01.nan | Fight Or Fright |
 | 15 | Kickmewhileimdown01.nan | Kick Me While I'm Down |
+| 16 | Sfefx01.nan | Sfefx |
+| 17 | Disco01.nan | Disco |
