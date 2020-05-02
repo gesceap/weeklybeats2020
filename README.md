@@ -31,3 +31,4 @@ All nanoloop mobile song files for songs uploaded to weeklybeats 2020
 | 15 | Kickmewhileimdown01.nan | Kick Me While I'm Down |
 | 16 | Sfefx01.nan | Sfefx |
 | 17 | Disco01.nan | Disco |
+| 18 | Bestbassever02.nan | BBE |
