@@ -32,3 +32,5 @@ All nanoloop mobile song files for songs uploaded to weeklybeats 2020
 | 16 | Sfefx01.nan | Sfefx |
 | 17 | Disco01.nan | Disco |
 | 18 | Bestbassever02.nan | BBE |
+| 19 | Dnlecmx01.nan | Dnlecmx |
+| 20 | Micromusiccancella01.nan | Micro Music Cancella |
