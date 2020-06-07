@@ -36,3 +36,5 @@ All nanoloop mobile song files for songs uploaded to weeklybeats 2020
 | 20 | Micromusiccancella01.nan | Micro Music Cancella |
 | 21 | Macrotu01.nan | Macrotu |
 | 22 | Backfromjapan02.nan | Back From Japan |
+| 23 | Dxyamland03.nan | Dxyamland |
+
