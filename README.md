@@ -39,4 +39,5 @@ All nanoloop mobile song files for songs uploaded to weeklybeats 2020
 | 23 | Dxyamland03.nan | Dxyamland |
 | 24 | | |
 | 25 | 25.nan | 25 |
+| 26 | Waker97.nan | Waker97 |
 
