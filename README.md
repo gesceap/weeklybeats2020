@@ -41,4 +41,4 @@ All nanoloop mobile song files for songs uploaded to weeklybeats 2020
 | 25 | 25.nan | 25 |
 | 26 | Waker97.nan | Waker97 |
 | 27 | Nondirenon01.nan | Non dire non |
-
+| 28 | 7sev.nan | 7sev |
