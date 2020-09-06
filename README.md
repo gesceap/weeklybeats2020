@@ -49,3 +49,4 @@ All nanoloop mobile song files for songs uploaded to weeklybeats 2020
 | 33 | Kneecapp01.nan | Kneecapp |
 | 34 | Tommademedrinkaraktajino02.nan | Tom made me drink a raktajino |
 | 35 | Nosmpllnd01.nan | Nosmpllnd |
+| 36 | Sleepstone01.nan | Sleepstone |
