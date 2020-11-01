@@ -55,4 +55,4 @@ All nanoloop mobile song files for songs uploaded to weeklybeats 2020
 | 39 | Homesleep02.nan | Homesleep |
 | 40 | 40BRK.nan | 40BRK |
 | 41 | Semesterstart01.nan | Semester Start |
-
+| 42 | Meditation01.nan | Meditation |
