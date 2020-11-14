@@ -58,3 +58,4 @@ All nanoloop mobile song files for songs uploaded to weeklybeats 2020
 | 42 | Meditation01.nan | Meditation |
 | 43 | Petrik04.nan | Petrik |
 | 44 | Overthought02.nan | Overthought |
+| 45 | Procrast02.nan | Procrast |
