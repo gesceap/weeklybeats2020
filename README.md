@@ -3,7 +3,7 @@
 All nanoloop mobile song files for songs uploaded to weeklybeats 2020
 
 * WeeklyBeats: [https://weeklybeats.com/gesceap](https://weeklybeats.com/gesceap)
-* Youtube: [https://www.youtube.com/channel/UChvIb5lU1CswBTno6BCGG4Q](https://www.youtube.com/channel/UChvIb5lU1CswBTno6BCGG4Q)
+* Youtube: [https://www.youtube.com/c/Gesceap](https://www.youtube.com/c/Gesceap)
 * Facebook: [https://www.facebook.com/gesceap/](https://www.facebook.com/gesceap/)
 * Twitter: [https://twitter.com/gesceap_](https://twitter.com/gesceap_)
 * Bandcamp: [https://gesceap.bandcamp.com/](https://gesceap.bandcamp.com/)
