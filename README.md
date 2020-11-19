@@ -60,3 +60,4 @@ All nanoloop mobile song files for songs uploaded to weeklybeats 2020
 | 44 | Overthought02.nan | Overthought |
 | 45 | Procrast02.nan | Procrast |
 | 46 | Jlaxg01.nan | Jlaxg |
+| 47 | Lonely01.nan | Lonely |
