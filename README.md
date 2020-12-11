@@ -67,5 +67,5 @@ All nanoloop mobile song files for songs uploaded to weeklybeats 2020
 
 # Notes
 
-Nanoloop iOS made songs are compatible with Nanoloop Android
-Nanoloop Android made songs are not compatible with Nanoloop iOS
+* Nanoloop iOS made songs are compatible with Nanoloop Android
+* Nanoloop Android made songs are not compatible with Nanoloop iOS
