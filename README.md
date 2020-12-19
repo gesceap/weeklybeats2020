@@ -64,8 +64,11 @@ All nanoloop mobile song files for songs uploaded to weeklybeats 2020
 | 48 | Dxtrbient01.nan | Dxtrbient | Android |
 | 49 | Wenbient02.nan | Wenbient | Android |
 | 50 | Orgambient01.nan | Orgbient | Android |
+| 51 | Strumbient01.nan | Strumbient | Android |
 
 # Notes
 
 * Nanoloop iOS made songs are compatible with Nanoloop Android
 * Nanoloop Android made songs are not compatible with Nanoloop iOS
+
+
