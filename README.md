@@ -65,6 +65,7 @@ All nanoloop mobile song files for songs uploaded to weeklybeats 2020
 | 49 | Wenbient02.nan | Wenbient | Android |
 | 50 | Orgambient01.nan | Orgbient | Android |
 | 51 | Strumbient01.nan | Strumbient | Android |
+| 52 | Deathmas01.nan | Deathmas | Android |
 
 # Notes
 
