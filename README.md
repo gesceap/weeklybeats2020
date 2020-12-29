@@ -61,11 +61,11 @@ All nanoloop mobile song files for songs uploaded to weeklybeats 2020
 | 45 | Procrast02.nan | Procrast | iOS | 132 | 
 | 46 | Jlaxg01.nan | Jlaxg | iOS | 167 |
 | 47 | Lonely01.nan | Lonely | iOS | 140 |
-| 48 | Dxtrbient01.nan | Dxtrbient | Android | |
-| 49 | Wenbient02.nan | Wenbient | Android | |
-| 50 | Orgambient01.nan | Orgbient | Android | |
-| 51 | Strumbient01.nan | Strumbient | Android | |
-| 52 | Deathmas01.nan | Deathmas | Android | |
+| 48 | Dxtrbient01.nan | Dxtrbient | Android | 130 |
+| 49 | Wenbient02.nan | Wenbient | Android | 120 |
+| 50 | Orgambient01.nan | Orgbient | Android | 130 |
+| 51 | Strumbient01.nan | Strumbient | Android | 115 |
+| 52 | Deathmas01.nan | Deathmas | Android | 120 |
 
 # Notes
 
