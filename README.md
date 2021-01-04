@@ -1,6 +1,6 @@
 # WeeklyBeats 2020
 
-All nanoloop mobile song files for songs uploaded to weeklybeats 2020
+All nanoloop mobile song files and mp3s for songs uploaded to weeklybeats 2020
 
 * WeeklyBeats: [https://weeklybeats.com/gesceap](https://weeklybeats.com/gesceap)
 * Youtube: [https://www.youtube.com/c/Gesceap](https://www.youtube.com/c/Gesceap)
@@ -9,6 +9,8 @@ All nanoloop mobile song files for songs uploaded to weeklybeats 2020
 * Bandcamp: [https://gesceap.bandcamp.com/](https://gesceap.bandcamp.com/)
 * Soundcloud: [https://soundcloud.com/gesceap](https://soundcloud.com/gesceap)
 * Github: [https://github.com/gesceap](https://github.com/gesceap)
+
+All mp3s submitted in the `mp3` folder.
 
 # Weeks
 
