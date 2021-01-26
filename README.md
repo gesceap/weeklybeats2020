@@ -1,3 +1,9 @@
+# Album 'Viral Mix'
+
+A one hour mix was created using all the music from Weeklybeats entitled 'Viral Mix'.
+
+https://gesceap.bandcamp.com/album/viral-mix
+
 # WeeklyBeats 2020
 
 All nanoloop mobile song files and mp3s for songs uploaded to weeklybeats 2020
