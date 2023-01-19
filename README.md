@@ -75,6 +75,12 @@ All mp3s submitted in the `mp3` folder.
 | 51 | Strumbient01.nan | Strumbient | Android | 115 |
 | 52 | Deathmas01.nan | Deathmas | Android | 120 |
 
+# Download 
+
+Download all the `.nan` project files and `mp3`s here:
+
+https://github.com/gesceap/weeklybeats2020/archive/refs/heads/master.zip
+
 # Notes
 
 * Nanoloop iOS made songs are compatible with Nanoloop Android
